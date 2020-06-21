@@ -9,7 +9,7 @@ package com.study.demo;
 public class Hospital {
 
 	public static void main(String[] args) {
-		String hospital = "天水三院";
+		
 		String idcard = "650214199001015988";
 		String name = "王三";
 		String mobile = "17794256337";
@@ -23,7 +23,7 @@ public class Hospital {
 		String paymode = "微信支付";
 		String warning = "弃诊超过三次将取消优先出号！";
 		
-		System.out.println("天水三院"+hospital);
+		System.out.println("天水三院");
 		System.out.println("身份证号码:"+idcard);
 		System.out.println("姓名:"+name);
 		System.out.println("电话号码:"+mobile);
